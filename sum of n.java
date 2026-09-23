@@ -1,4 +1,4 @@
-class jiya
+class sum of n
 {
     public static void main(String[]args)
     {
